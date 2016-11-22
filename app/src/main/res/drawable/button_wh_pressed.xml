@@ -4,9 +4,9 @@
 
     <gradient
             android:angle="270"
-            android:centerColor="#FF207FB9"
-            android:endColor="#FF0060B8"
-            android:startColor="#FF66CFE6" />
+            android:centerColor="?attr/mycol_accent"
+            android:endColor="?attr/mycol_primary_light"
+            android:startColor="?attr/mycol_primary_text" />
 
     <padding
             android:bottom="8dp"

@@ -11,10 +11,31 @@
         <item name="button">@style/button_wh</item>
         <item name="spinner">@style/spinner_wh</item>
         <item name="actionBarStyle">@style/action_bar_wh</item>
+
+        <item name="mycol_primary">@color/orig_primary</item>
+        <item name="mycol_primary_dark">@color/orig_primary_dark</item>
+        <item name="mycol_primary_light">@color/orig_primary_light</item>
+        <item name="mycol_accent">@color/orig_accent</item>
+        <item name="mycol_primary_text">@color/orig_primary_text</item>
+        <item name="mycol_secondary_text">@color/orig_secondary_text</item>
+        <item name="mycol_icons">@color/orig_icons</item>
+        <item name="mycol_divider">@color/orig_divider</item>
+        <item name="mycol_extraWhite">@color/orig_extraWhite</item>
+
     </style>
 
-    <style name="Theme.YOUR_CUSTOM_THEME" parent="Theme.AppCompat.Light">
+    <style name="Theme.YOUR_CUSTOM_THEME" parent="Theme.Material_Light">
         <!-- Define styles for YOUR_CUSTOM_THEME here. -->
+        <item name="mycol_primary">@color/primary</item>
+        <item name="mycol_primary_dark">@color/primary_dark</item>
+        <item name="mycol_primary_light">@color/primary_light</item>
+        <item name="mycol_accent">@color/accent</item>
+        <item name="mycol_primary_text">@color/primary_text</item>
+        <item name="mycol_secondary_text">@color/secondary_text</item>
+        <item name="mycol_icons">@color/icons</item>
+        <item name="mycol_divider">@color/divider</item>
+        <item name="mycol_extraWhite">@color/extraWhite</item>
+
     </style>
 
 </resources>

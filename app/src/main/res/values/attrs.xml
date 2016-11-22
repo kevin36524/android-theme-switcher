@@ -10,4 +10,14 @@
     <attr name="button" format="reference" />
     <attr name="spinner" format="reference" />
 
+    <attr name="mycol_primary" format="reference" />
+    <attr name="mycol_primary_dark" format="reference" />
+    <attr name="mycol_primary_light" format="reference"/>
+    <attr name="mycol_accent" format="reference"/>
+    <attr name="mycol_primary_text" format="reference"/>
+    <attr name="mycol_secondary_text" format="reference"/>
+    <attr name="mycol_icons" format="reference"/>
+    <attr name="mycol_divider" format="reference"/>
+    <attr name="mycol_extraWhite" format="reference"/>
+
 </resources>

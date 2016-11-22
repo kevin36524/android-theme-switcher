@@ -3,7 +3,7 @@
 
     <gradient
             android:angle="270"
-            android:endColor="#AFAFAF"
-            android:startColor="#FFFFFF" />
+            android:endColor="?attr/mycol_primary_dark"
+            android:startColor="?attr/mycol_extraWhite" />
 
 </shape>
